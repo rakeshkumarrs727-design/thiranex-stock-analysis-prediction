@@ -53,4 +53,5 @@ plt.savefig(f"{output_dir}/stock_trend.png")
 plt.close()
 
 print(f"\n[✓] Saved plot to: {output_dir}/stock_trend.png")
-print("Finance Pipeline finished successfully with zero errors!")
+print("finance has been cleaned and successfully completed without any errors")
+printf(saved login info  output pricr
