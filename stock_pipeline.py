@@ -54,4 +54,4 @@ plt.close()
 
 print(f"\n[✓] Saved plot to: {output_dir}/stock_trend.png")
 print("finance has been cleaned and successfully completed without any errors")
-printf(saved login info  output pricr
+printf(saved login info  output price)
